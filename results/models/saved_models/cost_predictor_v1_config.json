@@ -1,0 +1,12 @@
+{
+  "lookback_window": 14,
+  "forecast_horizon": 7,
+  "feature_names": [
+    "cost",
+    "cpu_usage",
+    "memory_usage",
+    "network_traffic",
+    "storage_usage",
+    "request_count"
+  ]
+}

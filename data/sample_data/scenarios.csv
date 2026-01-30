@@ -1,0 +1,7 @@
+name,instance_type,instance_count,vcpu,memory,auto_scaling,min_instances,max_instances,expected_cpu,expected_memory,reserved,discount
+Current Configuration,m5.2xlarge,2,8,32,False,2,2,90.58556771545828,89.41938440492476,,
+Right-Sized,m5.xlarge,2,4,16,False,2,2,135.87835157318742,134.12907660738713,,
+Auto-Scaling Enabled,m5.xlarge,1,4,16,True,1,4,117.76123803009577,116.24519972640219,,
+Burstable Instances,t3.xlarge,2,4,16,False,2,2,108.70268125854993,107.3032612859097,,
+Compute-Optimized,c5.2xlarge,2,8,16,False,2,2,81.52701094391246,160.95489192886455,,
+Reserved Instances (1-year),m5.2xlarge,2,8,32,False,2,2,90.58556771545828,89.41938440492476,True,0.4

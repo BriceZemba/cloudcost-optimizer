@@ -1,0 +1,14 @@
+provider,type,vcpu,memory,cost_per_hour,category,cost_per_day,cost_per_month
+aws,t3.micro,2,1,0.0104,burstable,0.2496,7.4879999999999995
+aws,t3.small,2,2,0.0208,burstable,0.4992,14.975999999999999
+aws,t3.medium,2,4,0.0416,burstable,0.9984,29.951999999999998
+aws,m5.large,2,8,0.096,general,2.3040000000000003,69.12
+aws,m5.xlarge,4,16,0.192,general,4.6080000000000005,138.24
+aws,m5.2xlarge,8,32,0.384,general,9.216000000000001,276.48
+aws,m5.4xlarge,16,64,0.768,general,18.432000000000002,552.96
+aws,c5.large,2,4,0.085,compute,2.04,61.2
+aws,c5.xlarge,4,8,0.17,compute,4.08,122.4
+aws,c5.2xlarge,8,16,0.34,compute,8.16,244.8
+aws,r5.large,2,16,0.126,memory,3.024,90.72
+aws,r5.xlarge,4,32,0.252,memory,6.048,181.44
+aws,r5.2xlarge,8,64,0.504,memory,12.096,362.88
