@@ -438,14 +438,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/BriceZemba/cloudcost-optimizer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/BriceZemba/cloudcost-optimizer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/BriceZemba/cloudcost-optimizer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/BriceZemba/cloudcost-optimizer)
-
----
 
 **Note**: This project was developed as part of research into AI applications for cloud computing and software engineering, with potential integration into architectural frameworks like StratusML.
 
