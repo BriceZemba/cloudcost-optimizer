@@ -1,4 +1,4 @@
-# 🚀 CloudCost Optimizer
+# CloudCost Optimizer
 
 **AI-Powered Cloud Cost Prediction and Resource Optimization for SaaS Applications**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
@@ -28,11 +28,11 @@
 
 ---
 
-## 🎯 Overview
+## Overview
 
 CloudCost Optimizer is a machine learning system that helps SaaS providers optimize their cloud infrastructure costs while maintaining performance requirements. Using LSTM neural networks and intelligent optimization algorithms, it predicts future costs and recommends optimal resource configurations.
 
-### 📊 Key Statistics
+### Key Statistics
 
 - **Cost Prediction Accuracy**: 92% (MAPE < 8%)
 - **Average Cost Savings**: 35-45%
@@ -41,7 +41,7 @@ CloudCost Optimizer is a machine learning system that helps SaaS providers optim
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Cloud costs for SaaS applications are:
 
@@ -58,7 +58,7 @@ Cloud costs for SaaS applications are:
 
 ---
 
-## 💡 Solution
+## Solution
 
 CloudCost Optimizer addresses these challenges through:
 
@@ -82,27 +82,27 @@ CloudCost Optimizer addresses these challenges through:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 Machine Learning
+### Machine Learning
 - **LSTM Neural Networks** for time series prediction
 - **Multi-feature Analysis** (CPU, memory, network, storage, requests)
 - **Adaptive Learning** from usage patterns
 - **Confidence Intervals** for predictions
 
-### 📈 Cost Optimization
+### Cost Optimization
 - **Instance Type Recommendations** based on actual usage
 - **Auto-scaling Policies** optimization
 - **Reserved Instance** vs On-Demand analysis
 - **Multi-cloud** cost comparison
 
-### 📊 Visualization & Reporting
+### Visualization & Reporting
 - Interactive dashboards (Streamlit)
 - Cost trend analysis
 - Resource utilization heatmaps
 - Savings reports
 
-### 🔌 Integration
+### Integration
 - REST API for easy integration
 - Cloud provider SDKs support
 - CI/CD pipeline compatible
@@ -110,7 +110,7 @@ CloudCost Optimizer addresses these challenges through:
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -159,7 +159,7 @@ CloudCost Optimizer addresses these challenges through:
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -194,7 +194,7 @@ python data/preprocessing/data_generator.py
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Train the Cost Predictor
 
@@ -272,7 +272,7 @@ print(f"Recommendations: {result['recommendations']}")
 
 ---
 
-## 📊 Results
+## Results
 
 ### Cost Prediction Performance
 
@@ -303,7 +303,7 @@ print(f"Recommendations: {result['recommendations']}")
 
 ---
 
-## 🔬 Technical Details
+## Technical Details
 
 ### Model Architecture
 
@@ -360,7 +360,7 @@ Performance = metric(latency, throughput, availability)
 
 ---
 
-## 📚 Research Contributions
+## Research Contributions
 
 This project demonstrates several important contributions to AI in Software Engineering:
 
@@ -386,27 +386,6 @@ This project demonstrates several important contributions to AI in Software Engi
 
 ---
 
-## 🔮 Future Work
-
-### Short-term (1-3 months)
-- [ ] Reinforcement Learning for dynamic auto-scaling
-- [ ] Multi-cloud optimization (AWS + Azure + GCP)
-- [ ] Real-time anomaly detection
-- [ ] Mobile dashboard app
-
-### Medium-term (3-6 months)
-- [ ] Integration with StratusML framework
-- [ ] Spot instance optimization
-- [ ] Cost allocation by microservice
-- [ ] What-if scenario analysis
-
-### Long-term (6-12 months)
-- [ ] Kubernetes cost optimization
-- [ ] Serverless cost prediction
-- [ ] Carbon footprint optimization
-- [ ] Multi-tenant SaaS optimization
-
----
 
 ## 📖 Documentation
 
@@ -420,7 +399,7 @@ Comprehensive documentation available in `/docs`:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Areas for improvement:
 
@@ -434,13 +413,13 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Brice Roméo Zemba Wendémi**
 
@@ -451,7 +430,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by the need for better cloud cost management in SaaS applications
 - Built with TensorFlow, Streamlit, and modern ML practices
